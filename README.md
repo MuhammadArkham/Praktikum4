@@ -116,4 +116,4 @@ pythonCopyfor i in range(len(nama)):
           .format(i+1, nama[i], nim[i], nilai_tugas[i], nilai_uts[i], nilai_uas[i], nilai_akhir[i]))
 ```
 ## Gambar Flowchart
-![Foto](
+![Foto](https://github.com/MuhammadArkham/Foto/blob/main/flowchart%20praktikum%204.png?raw=true)
